@@ -24,12 +24,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'ee27f61703d6122f88125194d0ab6bd84f814c23',
     'name' => 'sujan/press',
   ),
   'versions' => 
@@ -818,12 +818,12 @@ private static $installed = array (
     ),
     'sujan/press' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'ee27f61703d6122f88125194d0ab6bd84f814c23',
     ),
     'swiftmailer/swiftmailer' => 
     array (

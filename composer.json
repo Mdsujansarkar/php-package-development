@@ -10,5 +10,18 @@
     ],
     "require-dev": {
         "orchestra/testbench": "^6.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "sujan\\Press\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "sujan\\Press\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
     }
 }
