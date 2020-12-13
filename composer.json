@@ -1,0 +1,14 @@
+{
+    "name": "sujan/press",
+    "description": "First package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sujan Miya",
+            "email": "sujan@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^6.6"
+    }
+}
