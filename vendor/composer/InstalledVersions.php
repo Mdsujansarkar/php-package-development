@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'ee27f61703d6122f88125194d0ab6bd84f814c23',
+    'reference' => 'a4028c2da1cb08c04fdecf0262adce5977043fbc',
     'name' => 'sujan/press',
   ),
   'versions' => 
@@ -101,6 +101,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'ca90a3291eee1538cd48ff25163240695bd95448',
+    ),
+    'erusev/parsedown' => 
+    array (
+      'pretty_version' => '1.7.4',
+      'version' => '1.7.4.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'cb17b6477dfff935958ba01325f2e8a2bfa6dab3',
     ),
     'fakerphp/faker' => 
     array (
@@ -823,7 +832,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'ee27f61703d6122f88125194d0ab6bd84f814c23',
+      'reference' => 'a4028c2da1cb08c04fdecf0262adce5977043fbc',
     ),
     'swiftmailer/swiftmailer' => 
     array (
